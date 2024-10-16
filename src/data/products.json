@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "White Checked Shirt",
+        "price": 200,
+        "qty": 1000,
+        "image": "public/Images/product 1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "T-Shirt for Men",
+        "price": 250,
+        "qty": 1000,
+        "image": "public/Images/product 2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Blue and Pink Checked Shirt",
+        "price": 300,
+        "qty": 1000,
+        "image": "public/Images/product 3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pink T-Shirt for Girls",
+        "price": 170,
+        "qty": 1000,
+        "image": "public/Images/product 4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Black & White T-Shirt Combo",
+        "price": 350,
+        "qty": 1000,
+        "image": "public/Images/product 5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Girls Top & Skirt Set",
+        "price": 217,
+        "qty": 1000,
+        "image": "public/Images/product 6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Men's T-Shirt Combo",
+        "price": 400,
+        "qty": 1000,
+        "image": "public/Images/product 7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Black Jeans Pant",
+        "price": 810,
+        "qty": 1000,
+        "image": "public/Images/product 8.jpg"
+    }
+]
